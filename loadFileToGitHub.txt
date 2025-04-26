@@ -17,3 +17,5 @@ si tenemos problemas en el push, puede ser porque tocamos algo en github y eso n
 git pull, luego ir al archivo q tiene un problema aparece con una M mayuscula y accept changes
 
 git push,  deberia fucionar ya
+
+TODO ESTO PARECE Q PUEDE HACERSE DE VISUAL DIRECTO ES UNA RE JOYA, estara en un video q dejare en notion
